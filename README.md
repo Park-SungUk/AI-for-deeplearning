@@ -1,8 +1,8 @@
-#Repository for AI4DL class
+# Repository for AI4DL class
 
 Author : Park-sung-Uk
 
-###Folders
+### Folders
  - week[1-16] : Exercise notebooks
  - practice : random practice codes
  - Project : Final project
